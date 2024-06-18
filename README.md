@@ -10,6 +10,8 @@ This project involves creating multiple PacMen that bounce around the screen. Ea
 ## Roadmap
 - Add different shapes and colors for PacMen.
 - Implement collision detection between PacMen.
+- Click the "Add PacMan" button to create a PacMan, you can add as many as you want.
+- Click the "Start Game" button to begin.
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/LucaBrizuela/PacMenExercise/blob/main/LICENSE) file for details.
